@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Jenna Flora",
+        "salary": "50000",
+        "img": "https://via.placeholder.com/150"
+    },
+    {
+        "id": 2,
+        "name": "Daniel Gary Gloop",
+        "salary": "45000",
+        "img": "https://via.placeholder.com/150"
+    },
+    {
+        "id": 3,
+        "name": "Andrew Casper Sparkle",
+        "salary": "60000",
+        "img": "https://via.placeholder.com/150"
+    }
+]
